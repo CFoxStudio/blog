@@ -18,11 +18,12 @@ Evie had no updates since 2023. With a rewrite in Godot 4 coming (so Evie 0.1 ag
 **Logo and Visual Identity**: Our new logo is more modern, dynamic, and reflect our passion for gaming. 
 Along with the logo, we’re introducing a whole new visual style that will influence everything from our website to our game interfaces.
 
-**Our Domain**: Instead of the old domain we're using https://celestial-fox.com now!
+**Our Domain**: Instead of the old domain we're using [celestial-fox.com](https://celestial-fox.com) now!
 
 **Our Team:** Creta left LonelyPie, so there was only 2 people. But we're starting CelestialFox Studio with 2 new people on board! (So 4 in total!)
 
 Thank you for being part of this journey with us. Together, we’re just getting started!
+
 We hope you’re as excited about this new beginning as we are.
 
 - Andus
