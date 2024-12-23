@@ -20,7 +20,7 @@ Along with the logo, we’re introducing a whole new visual style that will infl
 
 **Our Domain**: Instead of the old domain we're using [celestial-fox.com](https://celestial-fox.com) now!
 
-**Our Team:** Creta left LonelyPie, so there was only 2 people. But we're starting CelestialFox Studio with 2 new people on board! (So 4 in total!)
+**Our Team:** Creta left LonelyPie, so there was only 2 people. But we're starting CelestialFox Studio with 3 new people on board! (So 5 in total!)
 
 Thank you for being part of this journey with us. Together, we’re just getting started!
 
